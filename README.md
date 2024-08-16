@@ -13,7 +13,7 @@ En este repositorio se encuentran las resoluciones de ejercicios propuestos por 
 
 ## Screenshots
 
-Screenshot de Ejemplo.
+
 [![dG7hc5x.md.png](https://iili.io/dG7hc5x.md.png)](https://freeimage.host/i/dG7hc5x)
 
 
