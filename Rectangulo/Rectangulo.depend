@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1727272311 source:c:\users\gonzalo\desktop\facultad\programacion 2 - plan 2024\poo\claserectangulo\rectangulo\main.cpp
+	<iostream>
+	"Rectangulo.h"
+
+1727279230 source:c:\users\gonzalo\desktop\facultad\programacion 2 - plan 2024\poo\claserectangulo\rectangulo\rectangulo.cpp
+	<iostream>
+	<stdio.h>
+	"Rectangulo.h"
+
+1727272108 c:\users\gonzalo\desktop\facultad\programacion 2 - plan 2024\poo\claserectangulo\rectangulo\rectangulo.h
+
