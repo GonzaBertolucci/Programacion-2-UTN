@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1727282286 source:c:\users\gonzalo\desktop\facultad\programacion 2 - plan 2024\poo\claserectangulo\dado\dado.cpp
+	<iostream>
+	<stdio.h>
+	"Dado.h"
+
+1727281736 c:\users\gonzalo\desktop\facultad\programacion 2 - plan 2024\poo\claserectangulo\dado\dado.h
+	<cstdlib>
+	<ctime>
+
+1727282261 source:c:\users\gonzalo\desktop\facultad\programacion 2 - plan 2024\poo\claserectangulo\dado\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"Dado.h"
+
