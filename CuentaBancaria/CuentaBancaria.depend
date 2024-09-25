@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1727307485 source:c:\users\gonzalo\desktop\facultad\programacion 2 - plan 2024\poo\clase cuentabancaria\cuentabancaria\main.cpp
+	<iostream>
+	"CuentaBancaria.h"
+
+1727306936 source:c:\users\gonzalo\desktop\facultad\programacion 2 - plan 2024\poo\clase cuentabancaria\cuentabancaria\cuentabancaria.cpp
+	<iostream>
+	<stdio.h>
+	"CuentaBancaria.h"
+
+1727306844 c:\users\gonzalo\desktop\facultad\programacion 2 - plan 2024\poo\clase cuentabancaria\cuentabancaria\cuentabancaria.h
+
